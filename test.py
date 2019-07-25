@@ -19,3 +19,5 @@ print(img.shape)
 img_show(img)
 
 fist
+sec
+sec
